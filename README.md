@@ -1,2 +1,2 @@
-# FakenewsDetection
+# FakenewsDetection.
 
